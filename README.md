@@ -19,6 +19,8 @@
     <img align= "center"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao20233)](https://github.com/anuraghazra/github-readme-stats)
+
 Minha paixão por criar experiências digitais envolventes e intuitivas me motivou a escolher o desenvolvimento front-end como minha área de atuação. 
 
 
