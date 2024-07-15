@@ -21,10 +21,30 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao20233)](https://github.com/anuraghazra/github-readme-stats)
 
-Minha paixão por criar experiências digitais envolventes e intuitivas me motivou a escolher o desenvolvimento front-end como minha área de atuação. 
+Eu sou o João Pedro e tenho 23 anos, apaixonado por tecnologia e inovação. Atuo como Desenvolvedor Full Stack, e curso Análise de sistemas. Valorizo a colaboração em equipe e acredito que a comunicação eficaz é fundamental para o sucesso de qualquer projeto.
+
+Hard Skills:
+
+Graduação (EM ANDAMENTO) na área de Tecnologia .(ANALISE DE SISTEMAS)
+Conhecimento em HTML, Java Script, CSS e GIT.
+Conhecimento em Testes Unitários e APIs REST.
+Conhecimento Básico em UI / UX. (FIGMA)
+metodologia ágil: SCRUM.
+Domínio do framework de frontend: REACT.JS.
+Domínio do framework de Back-end: NODE.JS.
+
+Soft Skills:
+
+Comunicação assertiva
+Criatividade
+Adaptabilidade
+Organização
+Proatividade
+
+Meu objetivo é trabalhar em projetos e fazer parte de equipes dinâmicas de desenvolvimento software, fornecendo melhor experiência para o usuário, onde eu possa aplicar meu conhecimento e contribuir para a criação de soluções de softwares. Tenho contado com mentalidade colaborativa, bom relacionamento com colegas de trabalho e clientes, boa aceitação de feedbacks, resiliência, análise crítica e resolução de problemas
 
 
 
 
-Meu objetivo é trabalhar em projetos e fazer parte de equipes dinâmicas de desenvolvimento front-end, fornecendo melhor experiência para o usuário, onde eu possa aplicar meu conhecimento e contribuir para a criação de soluções de softwares. Tenho contado com mentalidade colaborativa, bom relacionamento com colegas de trabalho e clientes, boa aceitação de feedbacks, resiliência, análise crítica e resolução de problemas.
+
 
